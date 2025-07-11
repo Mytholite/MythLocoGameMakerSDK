@@ -1,0 +1,40 @@
+{
+  "name": "Demo Project",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "structure": [
+    {
+      "id": "ui",
+      "name": "ui",
+      "type": "category",
+      "expanded": false,
+      "children": [
+        {
+          "id": "ui-menus",
+          "name": "Menus",
+          "type": "subcategory",
+          "keyCount": 0
+        }
+      ],
+      "keyCount": 0
+    }
+  ],
+  "translations": {
+    "en": {
+      "ui.menus.new_game": "New Game",
+      "ui.menus.load_game": "Load Game",
+      "ui.menus.settings": "Settings",
+      "ui.menus.quit": "Quit"
+    },
+    "fr": {
+      "ui.menus.new_game": "Nouveau jeu",
+      "ui.menus.load_game": "Charger le jeu",
+      "ui.menus.settings": "Paramètres",
+      "ui.menus.quit": "Quitter"
+    }
+  },
+  "exportedAt": "2025-07-11T11:48:10.640Z",
+  "version": "1.0"
+}

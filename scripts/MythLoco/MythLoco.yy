@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MythLoco",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MythLoco",
+  "parent":{
+    "name":"MythLoco",
+    "path":"folders/MythLoco.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

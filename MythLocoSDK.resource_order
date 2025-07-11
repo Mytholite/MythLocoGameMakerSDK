@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[
+    {"name":"MythLoco","order":1,"path":"folders/MythLoco.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oMythLocoDemo","order":2,"path":"objects/oMythLocoDemo/oMythLocoDemo.yy",},
+    {"name":"rmMythLoco","order":2,"path":"rooms/rmMythLoco/rmMythLoco.yy",},
+    {"name":"MythLoco","order":1,"path":"scripts/MythLoco/MythLoco.yy",},
+  ],
+}
