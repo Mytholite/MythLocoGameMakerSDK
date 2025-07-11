@@ -39,7 +39,7 @@ if (initMythLoco("localization/game_text.mythloco")) {
 }
 
 // Get localized text anywhere in your game
-var welcome_text = locoGet("welcome_message");
+var welcome_text = locoGet("ui.welcome_message");
 draw_text(x, y, welcome_text);
 ```
 
@@ -77,19 +77,19 @@ You can also manually create `.mythloco` files using this JSON structure:
   "languages": ["en", "fr", "es"],
   "translations": {
     "en": {
-      "game_title": "My Awesome Game",
-      "ui_start": "Start Game",
-      "ui_options": "Options"
+      "game.title": "My Awesome Game",
+      "ui.start": "Start Game",
+      "ui.options": "Options"
     },
     "fr": {
-      "game_title": "Mon Jeu Génial",
-      "ui_start": "Commencer",
-      "ui_options": "Options"
+      "game.title": "Mon Jeu Génial",
+      "ui.start": "Commencer",
+      "ui.options": "Options"
     },
     "es": {
-      "game_title": "Mi Juego Increíble",
-      "ui_start": "Iniciar Juego",
-      "ui_options": "Opciones"
+      "game.title": "Mi Juego Increíble",
+      "ui.start": "Iniciar Juego",
+      "ui.options": "Opciones"
     }
   }
 }
