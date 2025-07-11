@@ -165,7 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [MythLoco Web Tool](https://mythloco.co.uk) - Free online localization editor
 - [GameMaker Studio](https://www.yoyogames.com/gamemaker) - Game development platform
-- [Documentation](MythLocoDocumentation.html) - Complete SDK documentation
+- [[Documentation](https://github.com/Mytholite/MythLocoGameMakerSDK/wiki) - Complete SDK documentation
 
 ---
 
